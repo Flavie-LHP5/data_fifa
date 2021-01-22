@@ -1,40 +1,40 @@
-<?php 
+<?php
 
-$fifa_data = [ 
-    
-    [ 
-    'images' => 'Golo.jpeg',
-    'Name' => 'Zlatan Ibrahimović',
-    'Team' => 'AC Milan',
-    'Nationality' => 'Suédois',
-    'Number' => 11,
-    'Poste' => 'Avant-centre',
-    'Age' => 39
-    ],
+$fifa_data = [
 
     [
-    'Name' => 'N Golo Kante',
-    'Team' => 'Chelsea FC',
-    'Nationality' => 'Francais',
-    'Number' => 7,
-    'Poste' => 'Milieu',
-    'Age' => 29
+        'images' => 'Golo.jpeg',
+        'Name' => 'Zlatan Ibrahimović',
+        'Team' => 'AC Milan',
+        'Nationality' => 'Suédois',
+        'Number' => 11,
+        'Poste' => 'Avant-centre',
+        'Age' => 39
+    ],
+
+    [
+        'Name' => 'N Golo Kante',
+        'Team' => 'Chelsea FC',
+        'Nationality' => 'Francais',
+        'Number' => 7,
+        'Poste' => 'Milieu',
+        'Age' => 29
     ],
     [
-    'Name' => 'Juninho',
-    'Team' => 'Olympique Lyonnais',
-    'Nationality' => 'Brésilien',
-    'Number' => 8,
-    'Poste' => 'Milieu',
-    'Age' => 45
+        'Name' => 'Juninho',
+        'Team' => 'Olympique Lyonnais',
+        'Nationality' => 'Brésilien',
+        'Number' => 8,
+        'Poste' => 'Milieu',
+        'Age' => 45
     ],
     [
-    'Name' => 'Mohamed Salah',
-    'Team' => 'Liverpool FC',
-    'Nationality' => 'Égyptien',
-    'Number' => 8,
-    'Poste' => 'Ailier droit',
-    'Age' => 28
+        'Name' => 'Mohamed Salah',
+        'Team' => 'Liverpool FC',
+        'Nationality' => 'Égyptien',
+        'Number' => 8,
+        'Poste' => 'Ailier droit',
+        'Age' => 28
     ],
     [
         "picture" => "kylian.jpg",
@@ -44,11 +44,11 @@ $fifa_data = [
         "nationality" => "Francaise",
         "post" => "attaquant",
         "age" => 22
-        
-    ],
-    
 
-// joueur 2 : Nico
+    ],
+
+
+    // joueur 2 : Nico
 
     [
         "picture" => "griezman.jpg",
@@ -58,12 +58,12 @@ $fifa_data = [
         "nationality" => "Francaise",
         "post" => "attaquant",
         "age" => 29
-        
+
     ],
-    
 
 
-// joueur 3 : Nico
+
+    // joueur 3 : Nico
 
     [
         "picture" => "giroud.jpg",
@@ -73,34 +73,34 @@ $fifa_data = [
         "nationality" => "Francaise",
         "post" => "attaquant",
         "age" => 34
-        
+
     ],
 
 
- // joueur 4 : nico
+    // joueur 4 : nico
 
-        [
-            "picture" => "pavard.jpg",
-            "name" => "Pavard",
-            "team" => "France",
-            "number" => 2,
-            "nationality" => "Francaise",
-            "post" => "defenseur",
-            "age" => 22
-            
-        ],
+    [
+        "picture" => "pavard.jpg",
+        "name" => "Pavard",
+        "team" => "France",
+        "number" => 2,
+        "nationality" => "Francaise",
+        "post" => "defenseur",
+        "age" => 22
 
-         [
-            'image' => 'wendieRenard.jpg',
-            'name' => 'wendieRenard',
-            'team' => 'olympique lyonnais',
-            'nationality' => 'french',
-            'nbr' => 3,
-            'poste' => 'defender',
-            'age' => 30   
-        ],
-        
-        [
+    ],
+
+    [
+        'image' => 'wendieRenard.jpg',
+        'name' => 'wendieRenard',
+        'team' => 'olympique lyonnais',
+        'nationality' => 'french',
+        'nbr' => 3,
+        'poste' => 'defender',
+        'age' => 30
+    ],
+
+    [
         'image' => 'nadiaNadim.jpg',
         'name' => 'nikitaParris',
         'team' => 'olympique lyonnais',
@@ -108,9 +108,9 @@ $fifa_data = [
         'nbr' => 17,
         'poste' => 'striker',
         'age' => '26'
-        ],
-        
-        [
+    ],
+
+    [
         'image' => 'nikitaParris.jpg',
         'name' => 'nadiaNadim',
         'team' => 'Paris Saint Germain',
@@ -118,20 +118,59 @@ $fifa_data = [
         'nbr' => 10,
         'poste' => 'striker',
         'age' => '33'
-        ],
-        
-        [
-            'image' => 'ouleymataSaar.jpg',
-            'name' => 'ouleymataSaar',
+    ],
+
+    [
+        'image' => 'ouleymataSaar.jpg',
+        'name' => 'ouleymataSaar',
         'team' => 'olympique lyonnais',
         'nationality' => 'french',
         'nbr' => 3,
         'poste' => 'defender',
         'age' => 30
-        ]
-        
-        
-    
-];
+    ],
 
-?>
+    [
+        'image' => 'cristiano.jpeg',
+        'name' => 'Cristiano Ronaldo',
+        'team' => 'Juventus de Turin',
+        'numero' => '7',
+        'nationalité' => 'Portugal',
+        'position' => 'attaquant',
+        'age' => 35
+    ],
+
+    [
+        'image' => 'pogba.jpeg',
+        'name' => 'Paul Pogba',
+        'team' => 'Manchester United',
+        'numero' => '6',
+        'nationalité' => 'France',
+        'position' => 'milieu',
+        'age' => 26
+    ],
+
+    [
+        'image' => 'marquinhos.jpeg',
+        'name' => 'Marquinhos',
+        'team' => 'Paris Saint Germain',
+        'numero' => '5',
+        'nationalité' => 'Brésil',
+        'position' => 'défenseur',
+        'age' => 26
+    ],
+
+    [
+        'image' => 'cristiano.jpeg',
+        'name' => 'Alisson Becker',
+        'team' => 'Liverpool',
+        'numero' => '1',
+        'nationalité' => 'Brésil',
+        'position' => 'gardien',
+        'age' => 28
+    ]
+
+
+
+
+];
