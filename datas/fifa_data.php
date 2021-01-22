@@ -3,7 +3,7 @@
 $fifa_data = [
 
     [
-        'picture' => 'Zlatan.jpeg',
+        'picture' => 'datas/images/Zlatan.jpeg',
         'name' => 'Zlatan Ibrahimović',
         'team' => 'AC Milan',
         'nationality' => 'Suédois',
@@ -13,7 +13,7 @@ $fifa_data = [
     ],
 
     [   
-        'picture' => 'Golo.jpeg',
+        'picture' => 'datas/images/Golo.jpeg',
         'name' => 'N Golo Kante',
         'team' => 'Chelsea FC',
         'nationality' => 'Francais',
@@ -21,8 +21,9 @@ $fifa_data = [
         'position' => 'Milieu',
         'age' => 29
     ],
+    
     [
-        'picture' => 'Juninho.jpg',
+        'picture' => 'datas/images/Juninho.jpg',
         'name' => 'Juninho',
         'team' => 'Olympique Lyonnais',
         'nationality' => 'Brésilien',
@@ -30,8 +31,9 @@ $fifa_data = [
         'position' => 'Milieu',
         'age' => 45
     ],
+    
     [
-        'picture' => 'Mohammed.jpg',
+        'picture' => 'datas/images/Mohamed.jpg',
         'name' => 'Mohamed Salah',
         'team' => 'Liverpool FC',
         'nationality' => 'Égyptien',
@@ -39,112 +41,99 @@ $fifa_data = [
         'position' => 'Ailier droit',
         'age' => 28
     ],
+    
     [
-        "picture" => "kylian.jpg",
+        "picture" => "datas/images/kylian.jpg",
         "name" => "Mbappé",
         "team" => "France",
         "number" => 10,
         "nationality" => "Francaise",
-        "post" => "attaquant",
+        "position" => "attaquant",
         "age" => 22
-
     ],
 
-
-    // joueur 2 : Nico
-
     [
-        "picture" => "griezman.jpg",
+        "picture" => "datas/images/antoine.jpg",
         "name" => "Griezmann",
         "team" => "France",
         "number" => 7,
         "nationality" => "Francaise",
-        "post" => "attaquant",
+        "position" => "attaquant",
         "age" => 29
-
     ],
-
-
-
-    // joueur 3 : Nico
-
+    
     [
-        "picture" => "giroud.jpg",
+        "picture" => "datas/images/giroud.jpg",
         "name" => "Giroud",
         "team" => "France",
         "number" => 9,
         "nationality" => "Francaise",
-        "post" => "attaquant",
+        "position" => "attaquant",
         "age" => 34
-
     ],
-
-
-    // joueur 4 : nico
-
+    
     [
-        "picture" => "pavard.jpg",
+        "picture" => "datas/images/pavard.jpg",
         "name" => "Pavard",
         "team" => "France",
         "number" => 2,
         "nationality" => "Francaise",
-        "post" => "defenseur",
+        "position" => "defenseur",
         "age" => 22
-
     ],
-
+    
     [
-        'picture' => 'wendieRenard.jpg',
+        'picture' => 'datas/images/wendieRenard.jpg',
         'name' => 'wendieRenard',
         'team' => 'olympique lyonnais',
         'nationality' => 'french',
-        'nbr' => 3,
+        'number' => 3,
         'position' => 'defender',
         'age' => 30
     ],
 
     [
-        'picture' => 'nadiaNadim.jpg',
+        'picture' => 'datas/images/nadiaNadim.jpg',
         'name' => 'nikitaParris',
         'team' => 'olympique lyonnais',
         'nationality' => 'english',
-        'nbr' => 17,
+        'number' => 17,
         'position' => 'striker',
         'age' => '26'
     ],
 
     [
-        'picture' => 'nikitaParris.jpg',
+        'picture' => 'datas/images/nikitaParris.jpg',
         'name' => 'nadiaNadim',
         'team' => 'Paris Saint Germain',
         'nationality' => 'afghan',
-        'nbr' => 10,
+        'number' => 10,
         'position' => 'striker',
         'age' => '33'
     ],
 
     [
-        'picture' => 'ouleymataSaar.jpg',
+        'picture' => 'datas/images/ouleymataSaar.jpg',
         'name' => 'ouleymataSaar',
         'team' => 'olympique lyonnais',
         'nationality' => 'french',
-        'nbr' => 3,
+        'number' => 3,
         'position' => 'defender',
         'age' => 30
     ],
 
     [
-        'picture' => 'cristiano.jpeg',
+        'picture' => 'datas/images/cristiano.jpg',
         'name' => 'Cristiano Ronaldo',
         'team' => 'Juventus de Turin',
-        'number' => '7',
+        'number' => 7,
         'nationality' => 'Portugal',
         'position' => 'attaquant',
         'age' => 35
     ],
 
     [
-        'picture' => 'pogba.jpeg',
+        'picture' => 'datas/images/pogba.jpg',
         'name' => 'Paul Pogba',
         'team' => 'Manchester United',
         'number' => '6',
@@ -154,27 +143,27 @@ $fifa_data = [
     ],
 
     [
-        'picture' => 'marquinhos.jpeg',
+        'picture' => 'datas/images/marquinhos.jpg',
         'name' => 'Marquinhos',
         'team' => 'Paris Saint Germain',
-        'number' => '5',
+        'number' => 5,
         'nationality' => 'Brésil',
         'position' => 'défenseur',
         'age' => 26
     ],
 
     [
-        'picture' => 'cristiano.jpeg',
+        'picture' => 'datas/images/alisson.jpg',
         'name' => 'Alisson Becker',
         'team' => 'Liverpool',
-        'number' => '1',
+        'number' => 1,
         'nationality' => 'Brésil',
         'position' => 'gardien',
         'age' => 28
     ],
 
     [
-        'picture' => 'ManuelNeuer.jpg',
+        'picture' => 'datas/images/ManuelNeuer.jpg',
         'name' => 'Manuel Neuer',
         'team' => 'Allemagne',
         'number' => 1,
@@ -182,17 +171,19 @@ $fifa_data = [
         'position' => 'Gardien',
         'age' => 34
     ],
+    
     [
-        'picture' => 'MatthiasGinter.jpg',
+        'picture' => 'datas/images/MatthiasGinter.jpg',
         'name' => 'Matthias Ginter',
         'team' => 'Allemagne',
-        'number' =>4 ,
+        'number' => 4,
         'nationality' => 'Allemand',
         'position' => 'Droit',
         'age' => 24
     ],
+    
     [
-        'picture' => 'JonathanTah.jpg',
+        'picture' => 'datas/images/JonathanTah.jpg',
         'name' => 'Jonathan Tah',
         'team' => 'Allemagne',
         'number' => 5,
@@ -200,8 +191,9 @@ $fifa_data = [
         'position' => 'Défenseur',
         'age' => 24
     ],
+    
     [
-        'picture' => 'ToniKroos.jpg',
+        'picture' => 'datas/images/ToniKroos.jpg',
         'name' => 'Toni Kroos',
         'team' => 'Allemagne',
         'number' => 8,
@@ -209,8 +201,9 @@ $fifa_data = [
         'position' => 'Gauche',
         'age' => 31
     ],
+    
     [
-        'picture' => 'EdenHazard.jpg',
+        'picture' => 'datas/images/EdenHazard.jpg',
         'name' => 'Eden Hazard',
         'team' => 'Real Madrid',
         'number' => 7,
@@ -218,17 +211,19 @@ $fifa_data = [
         'position' => 'Ailier gauche',
         'age' => 30
     ],
+    
     [
-        'picture' => 'SergioRamos.jpg',
+        'picture' => 'datas/images/sergioRamos.jpg',
         'name' => 'Sergio Ramos',
         'team' => 'Real Madrid',
-        'number' =>4 ,
+        'number' => 4,
         'nationality' => 'Espagnol',
         'position' => 'Défenseur central',
         'age' => 34
     ],
+    
     [
-        'picture' => 'KarimBenzema.jpg',
+        'picture' => 'datas/images/karimBenzema.jpg',
         'name' => 'Karim Benzema',
         'team' => 'Real Madrid',
         'number' => 9,
@@ -236,8 +231,9 @@ $fifa_data = [
         'position' => 'Attaquant',
         'age' => 33
     ],
+    
     [
-        'picture' => 'ViniciusJunior.jpg',
+        'picture' => 'datas/images/ViniciusJr.jpg',
         'name' => 'Vinícius Júnior',
         'team' => 'Real Madrid',
         'number' => 20,
