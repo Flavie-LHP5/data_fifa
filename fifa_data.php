@@ -3,38 +3,41 @@
 $fifa_data = [
 
     [
-        'images' => 'Golo.jpeg',
-        'Name' => 'Zlatan Ibrahimović',
-        'Team' => 'AC Milan',
-        'Nationality' => 'Suédois',
-        'Number' => 11,
-        'Poste' => 'Avant-centre',
-        'Age' => 39
+        'picture' => 'Zlatan.jpeg',
+        'name' => 'Zlatan Ibrahimović',
+        'team' => 'AC Milan',
+        'nationality' => 'Suédois',
+        'number' => 11,
+        'poste' => 'Avant-centre',
+        'age' => 39
     ],
 
-    [
-        'Name' => 'N Golo Kante',
-        'Team' => 'Chelsea FC',
-        'Nationality' => 'Francais',
-        'Number' => 7,
-        'Poste' => 'Milieu',
-        'Age' => 29
+    [   
+        'picture' => 'Golo.jpeg',
+        'name' => 'N Golo Kante',
+        'team' => 'Chelsea FC',
+        'nationality' => 'Francais',
+        'number' => 7,
+        'poste' => 'Milieu',
+        'age' => 29
     ],
     [
-        'Name' => 'Juninho',
-        'Team' => 'Olympique Lyonnais',
-        'Nationality' => 'Brésilien',
-        'Number' => 8,
-        'Poste' => 'Milieu',
-        'Age' => 45
+        'picture' => 'Juninho.jpg',
+        'name' => 'Juninho',
+        'team' => 'Olympique Lyonnais',
+        'nationality' => 'Brésilien',
+        'number' => 8,
+        'poste' => 'Milieu',
+        'age' => 45
     ],
     [
-        'Name' => 'Mohamed Salah',
-        'Team' => 'Liverpool FC',
-        'Nationality' => 'Égyptien',
-        'Number' => 8,
-        'Poste' => 'Ailier droit',
-        'Age' => 28
+        'picture' => 'Mohammed.jpg',
+        'name' => 'Mohamed Salah',
+        'team' => 'Liverpool FC',
+        'nationality' => 'Égyptien',
+        'number' => 8,
+        'poste' => 'Ailier droit',
+        'age' => 28
     ],
     [
         "picture" => "kylian.jpg",
@@ -91,7 +94,7 @@ $fifa_data = [
     ],
 
     [
-        'image' => 'wendieRenard.jpg',
+        'picture' => 'wendieRenard.jpg',
         'name' => 'wendieRenard',
         'team' => 'olympique lyonnais',
         'nationality' => 'french',
@@ -101,7 +104,7 @@ $fifa_data = [
     ],
 
     [
-        'image' => 'nadiaNadim.jpg',
+        'picture' => 'nadiaNadim.jpg',
         'name' => 'nikitaParris',
         'team' => 'olympique lyonnais',
         'nationality' => 'english',
@@ -111,7 +114,7 @@ $fifa_data = [
     ],
 
     [
-        'image' => 'nikitaParris.jpg',
+        'picture' => 'nikitaParris.jpg',
         'name' => 'nadiaNadim',
         'team' => 'Paris Saint Germain',
         'nationality' => 'afghan',
@@ -121,7 +124,7 @@ $fifa_data = [
     ],
 
     [
-        'image' => 'ouleymataSaar.jpg',
+        'picture' => 'ouleymataSaar.jpg',
         'name' => 'ouleymataSaar',
         'team' => 'olympique lyonnais',
         'nationality' => 'french',
@@ -131,47 +134,47 @@ $fifa_data = [
     ],
 
     [
-        'image' => 'cristiano.jpeg',
+        'picture' => 'cristiano.jpeg',
         'name' => 'Cristiano Ronaldo',
         'team' => 'Juventus de Turin',
-        'numero' => '7',
-        'nationalité' => 'Portugal',
+        'number' => '7',
+        'nationality' => 'Portugal',
         'position' => 'attaquant',
         'age' => 35
     ],
 
     [
-        'image' => 'pogba.jpeg',
+        'picture' => 'pogba.jpeg',
         'name' => 'Paul Pogba',
         'team' => 'Manchester United',
-        'numero' => '6',
-        'nationalité' => 'France',
+        'number' => '6',
+        'nationality' => 'France',
         'position' => 'milieu',
         'age' => 26
     ],
 
     [
-        'image' => 'marquinhos.jpeg',
+        'picture' => 'marquinhos.jpeg',
         'name' => 'Marquinhos',
         'team' => 'Paris Saint Germain',
-        'numero' => '5',
-        'nationalité' => 'Brésil',
+        'number' => '5',
+        'nationality' => 'Brésil',
         'position' => 'défenseur',
         'age' => 26
     ],
 
     [
-        'image' => 'cristiano.jpeg',
+        'picture' => 'cristiano.jpeg',
         'name' => 'Alisson Becker',
         'team' => 'Liverpool',
-        'numero' => '1',
-        'nationalité' => 'Brésil',
+        'number' => '1',
+        'nationality' => 'Brésil',
         'position' => 'gardien',
         'age' => 28
     ],
 
     [
-        'pictures' => 'ManuelNeuer.jpg',
+        'picture' => 'ManuelNeuer.jpg',
         'name' => 'Manuel Neuer',
         'team' => 'Allemagne',
         'number' => 1,
@@ -180,7 +183,7 @@ $fifa_data = [
         'age' => 34
     ],
     [
-        'pictures' => 'MatthiasGinter.jpg',
+        'picture' => 'MatthiasGinter.jpg',
         'name' => 'Matthias Ginter',
         'team' => 'Allemagne',
         'number' =>4 ,
@@ -189,7 +192,7 @@ $fifa_data = [
         'age' => 24
     ],
     [
-        'pictures' => 'JonathanTah.jpg',
+        'picture' => 'JonathanTah.jpg',
         'name' => 'Jonathan Tah',
         'team' => 'Allemagne',
         'number' => 5,
@@ -198,7 +201,7 @@ $fifa_data = [
         'age' => 24
     ],
     [
-        'pictures' => 'ToniKroos.jpg',
+        'picture' => 'ToniKroos.jpg',
         'name' => 'Toni Kroos',
         'team' => 'Allemagne',
         'number' => 8,
@@ -207,7 +210,7 @@ $fifa_data = [
         'age' => 31
     ],
     [
-        'pictures' => 'EdenHazard.jpg',
+        'picture' => 'EdenHazard.jpg',
         'name' => 'Eden Hazard',
         'team' => 'Real Madrid',
         'number' => 7,
@@ -216,7 +219,7 @@ $fifa_data = [
         'age' => 30
     ],
     [
-        'pictures' => 'SergioRamos.jpg',
+        'picture' => 'SergioRamos.jpg',
         'name' => 'Sergio Ramos',
         'team' => 'Real Madrid',
         'number' =>4 ,
@@ -225,7 +228,7 @@ $fifa_data = [
         'age' => 34
     ],
     [
-        'pictures' => 'KarimBenzema.jpg',
+        'picture' => 'KarimBenzema.jpg',
         'name' => 'Karim Benzema',
         'team' => 'Real Madrid',
         'number' => 9,
@@ -234,7 +237,7 @@ $fifa_data = [
         'age' => 33
     ],
     [
-        'pictures' => 'ViniciusJunior.jpg',
+        'picture' => 'ViniciusJunior.jpg',
         'name' => 'Vinícius Júnior',
         'team' => 'Real Madrid',
         'number' => 20,
