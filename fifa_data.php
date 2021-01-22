@@ -1,4 +1,5 @@
 <?php 
+
 $fifa_data = [ 
     
     [ 
@@ -88,8 +89,49 @@ $fifa_data = [
             "age" => 22
             
         ],
+
+         [
+            'image' => 'wendieRenard.jpg',
+            'name' => 'wendieRenard',
+            'team' => 'olympique lyonnais',
+            'nationality' => 'french',
+            'nbr' => 3,
+            'poste' => 'defender',
+            'age' => 30   
+        ],
+        
+        [
+        'image' => 'nadiaNadim.jpg',
+        'name' => 'nikitaParris',
+        'team' => 'olympique lyonnais',
+        'nationality' => 'english',
+        'nbr' => 17,
+        'poste' => 'striker',
+        'age' => '26'
+        ],
+        
+        [
+        'image' => 'nikitaParris.jpg',
+        'name' => 'nadiaNadim',
+        'team' => 'Paris Saint Germain',
+        'nationality' => 'afghan',
+        'nbr' => 10,
+        'poste' => 'striker',
+        'age' => '33'
+        ],
+        
+        [
+            'image' => 'ouleymataSaar.jpg',
+            'name' => 'ouleymataSaar',
+        'team' => 'olympique lyonnais',
+        'nationality' => 'french',
+        'nbr' => 3,
+        'poste' => 'defender',
+        'age' => 30
+        ]
+        
+        
+    
 ];
 
 ?>
-
-
