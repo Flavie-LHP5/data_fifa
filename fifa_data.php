@@ -35,6 +35,59 @@ $fifa_data = [
     'Poste' => 'Ailier droit',
     'Age' => 28
     ],
+    [
+        "picture" => "kylian.jpg",
+        "name" => "Mbappé",
+        "team" => "France",
+        "number" => 10,
+        "nationality" => "Francaise",
+        "post" => "attaquant",
+        "age" => 22
+        
+    ],
+    
+
+// joueur 2 : Nico
+
+    [
+        "picture" => "griezman.jpg",
+        "name" => "Griezmann",
+        "team" => "France",
+        "number" => 7,
+        "nationality" => "Francaise",
+        "post" => "attaquant",
+        "age" => 29
+        
+    ],
+    
+
+
+// joueur 3 : Nico
+
+    [
+        "picture" => "giroud.jpg",
+        "name" => "Giroud",
+        "team" => "France",
+        "number" => 9,
+        "nationality" => "Francaise",
+        "post" => "attaquant",
+        "age" => 34
+        
+    ],
+
+
+ // joueur 4 : nico
+
+        [
+            "picture" => "pavard.jpg",
+            "name" => "Pavard",
+            "team" => "France",
+            "number" => 2,
+            "nationality" => "Francaise",
+            "post" => "defenseur",
+            "age" => 22
+            
+        ],
 ];
 
 ?>
