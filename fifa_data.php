@@ -205,9 +205,41 @@ $fifa_data = [
         'nationality' => 'Allemand',
         'position' => 'Gauche',
         'age' => 31
+    ],
+    [
+        'pictures' => 'EdenHazard.jpg',
+        'name' => 'Eden Hazard',
+        'team' => 'Real Madrid',
+        'number' => 7,
+        'nationality' => 'Belge',
+        'position' => 'Ailier gauche',
+        'age' => 30
+    ],
+    [
+        'pictures' => 'SergioRamos.jpg',
+        'name' => 'Sergio Ramos',
+        'team' => 'Real Madrid',
+        'number' =>4 ,
+        'nationality' => 'Espagnol',
+        'position' => 'Défenseur central',
+        'age' => 34
+    ],
+    [
+        'pictures' => 'KarimBenzema.jpg',
+        'name' => 'Karim Benzema',
+        'team' => 'Real Madrid',
+        'number' => 9,
+        'nationality' => 'Français',
+        'position' => 'Attaquant',
+        'age' => 33
+    ],
+    [
+        'pictures' => 'ViniciusJunior.jpg',
+        'name' => 'Vinícius Júnior',
+        'team' => 'Real Madrid',
+        'number' => 20,
+        'nationality' => 'Brésilien',
+        'position' => 'Ailier gauche',
+        'age' => 20
     ]
-
-
-
-
 ];
