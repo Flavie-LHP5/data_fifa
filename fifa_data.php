@@ -168,6 +168,43 @@ $fifa_data = [
         'nationalité' => 'Brésil',
         'position' => 'gardien',
         'age' => 28
+    ],
+
+    [
+        'pictures' => 'ManuelNeuer.jpg',
+        'name' => 'Manuel Neuer',
+        'team' => 'Allemagne',
+        'number' => 1,
+        'nationality' => 'Allemand',
+        'position' => 'Gardien',
+        'age' => 34
+    ],
+    [
+        'pictures' => 'MatthiasGinter.jpg',
+        'name' => 'Matthias Ginter',
+        'team' => 'Allemagne',
+        'number' =>4 ,
+        'nationality' => 'Allemand',
+        'position' => 'Droit',
+        'age' => 24
+    ],
+    [
+        'pictures' => 'JonathanTah.jpg',
+        'name' => 'Jonathan Tah',
+        'team' => 'Allemagne',
+        'number' => 5,
+        'nationality' => 'Allemand',
+        'position' => 'Défenseur',
+        'age' => 24
+    ],
+    [
+        'pictures' => 'ToniKroos.jpg',
+        'name' => 'Toni Kroos',
+        'team' => 'Allemagne',
+        'number' => 8,
+        'nationality' => 'Allemand',
+        'position' => 'Gauche',
+        'age' => 31
     ]
 
 
