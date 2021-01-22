@@ -8,7 +8,7 @@ $fifa_data = [
         'team' => 'AC Milan',
         'nationality' => 'Suédois',
         'number' => 11,
-        'poste' => 'Avant-centre',
+        'position' => 'Avant-centre',
         'age' => 39
     ],
 
@@ -18,7 +18,7 @@ $fifa_data = [
         'team' => 'Chelsea FC',
         'nationality' => 'Francais',
         'number' => 7,
-        'poste' => 'Milieu',
+        'position' => 'Milieu',
         'age' => 29
     ],
     [
@@ -27,7 +27,7 @@ $fifa_data = [
         'team' => 'Olympique Lyonnais',
         'nationality' => 'Brésilien',
         'number' => 8,
-        'poste' => 'Milieu',
+        'position' => 'Milieu',
         'age' => 45
     ],
     [
@@ -36,7 +36,7 @@ $fifa_data = [
         'team' => 'Liverpool FC',
         'nationality' => 'Égyptien',
         'number' => 8,
-        'poste' => 'Ailier droit',
+        'position' => 'Ailier droit',
         'age' => 28
     ],
     [
@@ -99,7 +99,7 @@ $fifa_data = [
         'team' => 'olympique lyonnais',
         'nationality' => 'french',
         'nbr' => 3,
-        'poste' => 'defender',
+        'position' => 'defender',
         'age' => 30
     ],
 
@@ -109,7 +109,7 @@ $fifa_data = [
         'team' => 'olympique lyonnais',
         'nationality' => 'english',
         'nbr' => 17,
-        'poste' => 'striker',
+        'position' => 'striker',
         'age' => '26'
     ],
 
@@ -119,7 +119,7 @@ $fifa_data = [
         'team' => 'Paris Saint Germain',
         'nationality' => 'afghan',
         'nbr' => 10,
-        'poste' => 'striker',
+        'position' => 'striker',
         'age' => '33'
     ],
 
@@ -129,7 +129,7 @@ $fifa_data = [
         'team' => 'olympique lyonnais',
         'nationality' => 'french',
         'nbr' => 3,
-        'poste' => 'defender',
+        'position' => 'defender',
         'age' => 30
     ],
 
