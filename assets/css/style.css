@@ -1,0 +1,15 @@
+nav {
+    background-color:#326295;
+    position: fixed;
+}
+#Logonavbar{
+    width: 113px;
+    height: 18px;
+}
+#btninfos{
+    background-color: #FFCC00;
+}
+#btninfos:hover{
+    background-color: #326295;
+}
+
